@@ -1,0 +1,10 @@
+apples
+bananas
+oats
+milk
+eggs
+bread
+cucumbers
+lettuce
+eggplant
+doritos
