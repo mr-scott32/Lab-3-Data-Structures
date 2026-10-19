@@ -6,7 +6,6 @@ Let's go grocery shopping! Colesworth has requested a shopping application which
 - The user can continue to do all of the above until they check out.
 
 You do NOT need to handle pricing.
-
 """
 
 # Program Here
